@@ -4,8 +4,8 @@
 # Sobre o projeto
 Este é um site fictício da Universidade Unes construído somente em HTML5 a fim de praticar a línguagem, nele você pode encontrar informações sobre a universidade, seus cursos, objetivos e eventos. O site é o site consiste em várias páginas, incluindo:
 
-Página inicial: apresenta uma breve descrição da universidade e os destaques mais recentes.
-Página quem somos: apresenta uma biografia da universidade, juntamente com uma breve descrição de cada um dos objetivos.
+Página inicial: apresenta uma breve descrição da universidade e os destaques mais recentes.   
+Página quem somos: apresenta uma biografia da universidade, juntamente com uma breve descrição de cada um dos objetivos.   
 Página de contato: caso se sinta interessado, entre em contato conosco.
 
 ## Como executar o site
